@@ -51,6 +51,11 @@ add python Dependencies
 ```sh
 $ pip install -r requirements.txt
 ```
+after that, run the following
+
+```sh
+$ python initiate.py
+```
 
 ###check if the python code is working
 
