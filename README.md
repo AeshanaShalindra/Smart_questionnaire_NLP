@@ -45,6 +45,11 @@ this also needs Python (2.7.13 or newer)
 
 having installed python successfully, the following command should be written while being in the directory of the downloaded project file
 
+next install package manager for Python PIP 
+
+```sh
+$ python -m pip install --upgrade pip
+```
 
 add python Dependencies 
 
